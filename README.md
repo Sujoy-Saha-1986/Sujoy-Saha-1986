@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Sujoy-Saha-1986/Sujoy-Saha-1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sujoy Saha**, a passionate **Data Analyst** specializing in **R, Python, Power BI, Microsoft 365 (Excel, Word, PowerPoint), BigQuery, and Statistics**.
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🎓 Final semester Business Analytics student at the University of New Haven,CT, USA.
+- 📜 Holder of a Master's and Bachelor's degree in Statistics.
+- 💼 8+ years of experience in analytics and supply chain.
+- 🛠 Skilled in transforming data into actionable insights through advanced tools and techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- [[Online Retail Analysis](https://github.com/sujoy123/Online-Retail-Analysis)](https://github.com/Sujoy-Saha-1986/Online_Retail_Analysis.R): Analyzing customer trends and revenue.
+
+
+### 🧰 Tools & Technologies
+- **Programming**: R, Python, SQL
+- **Visualization**: ggplot2, Plotly, Power BI
+- **Tools**: Microsoft 365 (Excel, Word, PowerPoint), Tableau, GitHub
+- **Platforms**: Google Cloud (BigQuery)
+
+### 📫 Let's Connect
+- [LinkedIn]([https://www.linkedin.com/in/sujoy123/](https://www.linkedin.com/in/sujoy-saha-6a591894/)
+- [Email](mailto:ssujoy26@gmail.com)
